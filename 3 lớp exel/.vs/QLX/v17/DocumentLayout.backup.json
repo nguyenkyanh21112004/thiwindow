@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\kiemtrawin\\3 l\u1EDBp exel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|f:\\kiemtrawin\\3 l\u1EDBp exel\\qlx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|solutionrelative:qlx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\qlx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|solutionrelative:qlx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57FF6A9-4DD9-423A-8ABB-1679A21FF3A4}|BUS\\BUS.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\bus\\phanxuong_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57FF6A9-4DD9-423A-8ABB-1679A21FF3A4}|BUS\\BUS.csproj|solutionrelative:bus\\phanxuong_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA62E63-6A8B-4DD7-A4C5-114D9FD9CD0D}|DAL\\DAL.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\dal\\phanxuong_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA62E63-6A8B-4DD7-A4C5-114D9FD9CD0D}|DAL\\DAL.csproj|solutionrelative:dal\\phanxuong_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E41B69-C0C9-45E6-9567-8141623F39FD}|DTO\\DTO.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\dto\\phanxuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E41B69-C0C9-45E6-9567-8141623F39FD}|DTO\\DTO.csproj|solutionrelative:dto\\phanxuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA62E63-6A8B-4DD7-A4C5-114D9FD9CD0D}|DAL\\DAL.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\dal\\conncet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA62E63-6A8B-4DD7-A4C5-114D9FD9CD0D}|DAL\\DAL.csproj|solutionrelative:dal\\conncet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\qlx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|solutionrelative:qlx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|F:\\kiemtrawin\\3 l\u1EDBp exel\\qlx\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E821425-B0CF-4656-A030-D627C842B07F}|QLX\\QLX.csproj|solutionrelative:qlx\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\ce0349d7-a46f-4e99-aa7f-5c37fe52d26c_source.zip.26c\\source\\repos\\Kiemtra1\\DAL\\NV_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\7070c6b7-4237-4b2e-824f-500755721ac6_test git.zip.ac6\\test git\\BTLwinform\\DAL\\TT_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\37c10b97-6195-45ca-891b-61bc19a88e3b_test git.zip.e3b\\test git\\BTLwinform\\DAL\\SV_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\028efac1-8e96-4a78-8720-9c0b606b037d_test git.zip.37d\\test git\\BTLwinform\\DAL\\P_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\2460ea8a-1cdd-4638-a0ea-d915f496f063_test git.zip.063\\test git\\BTLwinform\\DAL\\HD_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\a49d4801-25de-4725-9fea-245cda1b4609_test git.zip.609\\test git\\BTLwinform\\DAL\\DV_DAL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\0e4e3fef-acf4-4468-8537-2b5600de96e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\2e40524e-0317-490a-9976-3a8f8aedae2f_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\2293a67a-0774-4eb1-a39c-56f620d519a5_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\efcba4c0-b989-43b8-95c7-9e30a170173e_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\8a6b55d6-6838-403a-aeae-d8199ba9b7e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Danhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\f71e0df0-a95b-4dd9-9f20-c5f082a503fb_Quanlysach.rar.3fb\\Quanlysach\\Quanlysach\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\2d7b6398-1c94-4a0d-8238-89e7df5b80b9_Quanlysach.rar.0b9\\Quanlysach\\Quanlysach\\BSach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\a6705726-1f6e-4603-bf04-fc766540ab90_Quanlysach.rar.b90\\Quanlysach\\Quanlysach\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\AppData\\Local\\Temp\\96359454-aaa8-4fa8-aadb-b254e0bbb4ec_Quanlysach.rar.4ec\\Quanlysach\\Quanlysach\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conncet.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DAL\\conncet.cs",
+              "RelativeDocumentMoniker": "DAL\\conncet.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DAL\\conncet.cs",
+              "RelativeToolTip": "DAL\\conncet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:50:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "phanxuong_dal.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DAL\\phanxuong_dal.cs",
+              "RelativeDocumentMoniker": "DAL\\phanxuong_dal.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DAL\\phanxuong_dal.cs",
+              "RelativeToolTip": "DAL\\phanxuong_dal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:50:48.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phanxuong_bus.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\BUS\\phanxuong_bus.cs",
+              "RelativeDocumentMoniker": "BUS\\phanxuong_bus.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\BUS\\phanxuong_bus.cs",
+              "RelativeToolTip": "BUS\\phanxuong_bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:51:07.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.cs",
+              "RelativeDocumentMoniker": "QLX\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.cs [Design]",
+              "RelativeToolTip": "QLX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:50:22.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.cs",
+              "RelativeDocumentMoniker": "QLX\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.cs",
+              "RelativeToolTip": "QLX\\Form1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2IAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:47:17.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "phanxuong.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DTO\\phanxuong.cs",
+              "RelativeDocumentMoniker": "DTO\\phanxuong.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\DTO\\phanxuong.cs",
+              "RelativeToolTip": "DTO\\phanxuong.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:50:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Program.cs",
+              "RelativeDocumentMoniker": "QLX\\Program.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Program.cs",
+              "RelativeToolTip": "QLX\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:52:03.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "QLX\\Form1.Designer.cs",
+              "ToolTip": "F:\\kiemtrawin\\3 l\u1EDBp exel\\QLX\\Form1.Designer.cs",
+              "RelativeToolTip": "QLX\\Form1.Designer.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAswLsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NV_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\ce0349d7-a46f-4e99-aa7f-5c37fe52d26c_source.zip.26c\\source\\repos\\Kiemtra1\\DAL\\NV_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\ce0349d7-a46f-4e99-aa7f-5c37fe52d26c_source.zip.26c\\source\\repos\\Kiemtra1\\DAL\\NV_DAL.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:25:38.819Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\0e4e3fef-acf4-4468-8537-2b5600de96e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\0e4e3fef-acf4-4468-8537-2b5600de96e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:25:23.26Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DV_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\a49d4801-25de-4725-9fea-245cda1b4609_test git.zip.609\\test git\\BTLwinform\\DAL\\DV_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\a49d4801-25de-4725-9fea-245cda1b4609_test git.zip.609\\test git\\BTLwinform\\DAL\\DV_DAL.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:30:19.552Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HD_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2460ea8a-1cdd-4638-a0ea-d915f496f063_test git.zip.063\\test git\\BTLwinform\\DAL\\HD_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2460ea8a-1cdd-4638-a0ea-d915f496f063_test git.zip.063\\test git\\BTLwinform\\DAL\\HD_DAL.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:30:19.745Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "P_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\028efac1-8e96-4a78-8720-9c0b606b037d_test git.zip.37d\\test git\\BTLwinform\\DAL\\P_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\028efac1-8e96-4a78-8720-9c0b606b037d_test git.zip.37d\\test git\\BTLwinform\\DAL\\P_DAL.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:30:19.9Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SV_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\37c10b97-6195-45ca-891b-61bc19a88e3b_test git.zip.e3b\\test git\\BTLwinform\\DAL\\SV_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\37c10b97-6195-45ca-891b-61bc19a88e3b_test git.zip.e3b\\test git\\BTLwinform\\DAL\\SV_DAL.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:30:20.062Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TT_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\7070c6b7-4237-4b2e-824f-500755721ac6_test git.zip.ac6\\test git\\BTLwinform\\DAL\\TT_DAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\7070c6b7-4237-4b2e-824f-500755721ac6_test git.zip.ac6\\test git\\BTLwinform\\DAL\\TT_DAL.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:30:20.222Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Danhsach.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\8a6b55d6-6838-403a-aeae-d8199ba9b7e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Danhsach.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\8a6b55d6-6838-403a-aeae-d8199ba9b7e6_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Danhsach.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:24:56.714Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\f71e0df0-a95b-4dd9-9f20-c5f082a503fb_Quanlysach.rar.3fb\\Quanlysach\\Quanlysach\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\f71e0df0-a95b-4dd9-9f20-c5f082a503fb_Quanlysach.rar.3fb\\Quanlysach\\Quanlysach\\Form1.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:14:42.379Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BSach.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2d7b6398-1c94-4a0d-8238-89e7df5b80b9_Quanlysach.rar.0b9\\Quanlysach\\Quanlysach\\BSach.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2d7b6398-1c94-4a0d-8238-89e7df5b80b9_Quanlysach.rar.0b9\\Quanlysach\\Quanlysach\\BSach.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:14:42.072Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\efcba4c0-b989-43b8-95c7-9e30a170173e_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\efcba4c0-b989-43b8-95c7-9e30a170173e_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:24:57.043Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2293a67a-0774-4eb1-a39c-56f620d519a5_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2293a67a-0774-4eb1-a39c-56f620d519a5_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Form1.Designer.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:24:57.438Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2e40524e-0317-490a-9976-3a8f8aedae2f_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\2e40524e-0317-490a-9976-3a8f8aedae2f_DSTHILAI (1).zip.DSTHILAI (1).zip\\DSTHILAI\\DSTHILAI\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:24:58.105Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\a6705726-1f6e-4603-bf04-fc766540ab90_Quanlysach.rar.b90\\Quanlysach\\Quanlysach\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\a6705726-1f6e-4603-bf04-fc766540ab90_Quanlysach.rar.b90\\Quanlysach\\Quanlysach\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:14:41.696Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\AppData\\Local\\Temp\\96359454-aaa8-4fa8-aadb-b254e0bbb4ec_Quanlysach.rar.4ec\\Quanlysach\\Quanlysach\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\AppData\\Local\\Temp\\96359454-aaa8-4fa8-aadb-b254e0bbb4ec_Quanlysach.rar.4ec\\Quanlysach\\Quanlysach\\Form1.Designer.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:14:41.333Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

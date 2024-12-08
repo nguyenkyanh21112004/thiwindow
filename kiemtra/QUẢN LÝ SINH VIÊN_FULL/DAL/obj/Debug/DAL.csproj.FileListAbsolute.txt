@@ -1,0 +1,27 @@
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\bin\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\bin\Debug\DAL.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\bin\Debug\DTO.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\bin\Debug\DTO.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\obj\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL\obj\Debug\DAL.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DAL.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DTO.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DTO.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DAL.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DAL.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\DAL\obj\Debug\DAL.pdb

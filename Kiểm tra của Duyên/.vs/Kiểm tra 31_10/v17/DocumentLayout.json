@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|f:\\kiemtrawin\\ki\u1EC3m tra c\u1EE7a duy\u00EAn\\ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|solutionrelative:ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|f:\\kiemtrawin\\ki\u1EC3m tra c\u1EE7a duy\u00EAn\\ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|solutionrelative:ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FEC7E9-2A8F-4167-BC4F-F5910B1CFA44}|DAL\\DAL.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\dal\\dal_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FEC7E9-2A8F-4167-BC4F-F5910B1CFA44}|DAL\\DAL.csproj|solutionrelative:dal\\dal_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0FEC7E9-2A8F-4167-BC4F-F5910B1CFA44}|DAL\\DAL.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\dal\\dal_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0FEC7E9-2A8F-4167-BC4F-F5910B1CFA44}|DAL\\DAL.csproj|solutionrelative:dal\\dal_cn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5903BE01-2200-4D4F-8514-C94BC635BA3D}|BUS\\BUS.csproj|f:\\kiemtrawin\\ki\u1EC3m tra c\u1EE7a duy\u00EAn\\bus\\bus_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5903BE01-2200-4D4F-8514-C94BC635BA3D}|BUS\\BUS.csproj|solutionrelative:bus\\bus_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EC497-5842-43BA-AE40-80A3B168D154}|DTO\\DTO.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\dto\\dto_makh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EC497-5842-43BA-AE40-80A3B168D154}|DTO\\DTO.csproj|solutionrelative:dto\\dto_makh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30EC497-5842-43BA-AE40-80A3B168D154}|DTO\\DTO.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\dto\\dto_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30EC497-5842-43BA-AE40-80A3B168D154}|DTO\\DTO.csproj|solutionrelative:dto\\dto_ks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|f:\\kiemtrawin\\ki\u1EC3m tra c\u1EE7a duy\u00EAn\\ki\u1EC3m tra 31_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|solutionrelative:ki\u1EC3m tra 31_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|f:\\kiemtrawin\\ki\u1EC3m tra c\u1EE7a duy\u00EAn\\ki\u1EC3m tra 31_10\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 9_12.csproj|solutionrelative:ki\u1EC3m tra 31_10\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|solutionrelative:ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|solutionrelative:ki\u1EC3m tra 31_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\ki\u1EC3m tra 31_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44353C08-64EC-4780-AE05-266428CABBA5}|Ki\u1EC3m tra 31_10\\Ki\u1EC3m tra 31_10.csproj|solutionrelative:ki\u1EC3m tra 31_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs [Design]",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:13:33.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO_KS.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DTO\\DTO_KS.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_KS.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DTO\\DTO_KS.cs",
+              "RelativeToolTip": "DTO\\DTO_KS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:42:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO_makh.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DTO\\DTO_makh.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_makh.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DTO\\DTO_makh.cs",
+              "RelativeToolTip": "DTO\\DTO_makh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:27:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL_KS.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DAL\\DAL_KS.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KS.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DAL\\DAL_KS.cs",
+              "RelativeToolTip": "DAL\\DAL_KS.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:50:09.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL_CN.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DAL\\DAL_CN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_CN.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\DAL\\DAL_CN.cs",
+              "RelativeToolTip": "DAL\\DAL_CN.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:42:39.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUS_KS.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\BUS\\BUS_KS.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_KS.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\BUS\\BUS_KS.cs",
+              "RelativeToolTip": "BUS\\BUS_KS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:42:55.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:13:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Program.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Program.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Program.cs",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:01:11.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\packages.config",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\packages.config",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\packages.config",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-08T15:18:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs [Design]",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:20:01.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Form1.cs",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:58:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Program.cs",
+              "RelativeDocumentMoniker": "Ki\u1EC3m tra 31_10\\Program.cs",
+              "ToolTip": "F:\\kiemtrawin\\Ki\u1EC3m tra c\u1EE7a Duy\u00EAn\\Ki\u1EC3m tra 31_10\\Program.cs",
+              "RelativeToolTip": "Ki\u1EC3m tra 31_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:09:14.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

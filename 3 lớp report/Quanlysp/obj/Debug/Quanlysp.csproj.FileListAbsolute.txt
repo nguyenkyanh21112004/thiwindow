@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\Quanlysp.exe.config
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\Quanlysp.exe
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\Quanlysp.pdb
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\BUS.dll
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\DTO.dll
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\DAL.dll
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\BUS.pdb
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\DTO.pdb
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\bin\Debug\DAL.pdb
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.Form1.resources
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.Properties.Resources.resources
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.csproj.Up2Date
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.exe
+C:\Users\PC\source\repos\Quanlysp\Quanlysp\obj\Debug\Quanlysp.pdb

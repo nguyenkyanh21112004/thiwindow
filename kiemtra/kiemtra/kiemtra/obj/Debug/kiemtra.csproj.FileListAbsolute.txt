@@ -1,0 +1,5 @@
+C:\Users\IT\source\repos\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\kiemtra\kiemtra\obj\Debug\kiemtra.Form1.resources
+C:\Users\IT\source\repos\kiemtra\kiemtra\obj\Debug\kiemtra.Properties.Resources.resources
+C:\Users\IT\source\repos\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\kiemtra\kiemtra\obj\Debug\kiemtra.csproj.CoreCompileInputs.cache

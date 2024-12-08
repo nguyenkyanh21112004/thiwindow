@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\QLX\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\QLX\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\QLX\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\QLX\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\QLX\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLX\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLX\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\source\repos\QLX\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\source\repos\QLX\DAL\obj\Debug\DAL.pdb
+F:\Môn windownfrom\repos\batap\DAL\bin\Debug\DAL.dll
+F:\Môn windownfrom\repos\batap\DAL\bin\Debug\DAL.pdb
+F:\Môn windownfrom\repos\batap\DAL\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\batap\DAL\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\batap\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\batap\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\batap\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\Môn windownfrom\repos\batap\DAL\obj\Debug\DAL.dll
+F:\Môn windownfrom\repos\batap\DAL\obj\Debug\DAL.pdb

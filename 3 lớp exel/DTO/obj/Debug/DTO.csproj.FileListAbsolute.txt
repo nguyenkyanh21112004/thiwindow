@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QLX\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\QLX\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\QLX\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLX\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLX\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\source\repos\QLX\DTO\obj\Debug\DTO.pdb
+F:\Môn windownfrom\repos\batap\DTO\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\batap\DTO\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\batap\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\batap\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\batap\DTO\obj\Debug\DTO.dll
+F:\Môn windownfrom\repos\batap\DTO\obj\Debug\DTO.pdb

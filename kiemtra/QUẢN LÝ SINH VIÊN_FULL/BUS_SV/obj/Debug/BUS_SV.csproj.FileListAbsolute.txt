@@ -1,0 +1,11 @@
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\BUS_SV.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\BUS_SV.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\DAL_Sinhvien.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\DTO_Sinhvien.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\DAL_Sinhvien.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\bin\Debug\DTO_Sinhvien.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\obj\Debug\BUS_SV.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\obj\Debug\BUS_SV.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\obj\Debug\BUS_SV.csproj.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\obj\Debug\BUS_SV.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\BUS_SV\obj\Debug\BUS_SV.pdb

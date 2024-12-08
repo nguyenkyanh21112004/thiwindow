@@ -1,0 +1,9 @@
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\bin\Debug\DAL_Sinhvien.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\bin\Debug\DAL_Sinhvien.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\bin\Debug\DTO_Sinhvien.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\bin\Debug\DTO_Sinhvien.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\obj\Debug\DAL_Sinhvien.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\obj\Debug\DAL_Sinhvien.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\obj\Debug\DAL_Sinh.7DA928D2.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\obj\Debug\DAL_Sinhvien.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\DAL_Sinhvien\obj\Debug\DAL_Sinhvien.pdb

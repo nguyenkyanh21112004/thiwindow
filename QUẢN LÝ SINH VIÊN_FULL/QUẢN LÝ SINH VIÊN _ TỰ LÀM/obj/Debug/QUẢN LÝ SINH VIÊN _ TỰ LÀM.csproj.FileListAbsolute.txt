@@ -1,0 +1,10 @@
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe.config
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Form1.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Properties.Resources.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.csproj.GenerateResource.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb

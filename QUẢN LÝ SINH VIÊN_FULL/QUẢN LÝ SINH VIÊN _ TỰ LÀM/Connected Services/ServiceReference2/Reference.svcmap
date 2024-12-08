@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="b43c4900-bd0a-4cc2-967f-95cd41da670d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57839/ThaotacCSDL.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ThaotacCSDL.disco" MetadataType="Disco" ID="4fb386bb-63c7-4759-aae6-158d7b35c92d" SourceId="1" SourceUrl="http://localhost:57839/ThaotacCSDL.svc?disco" />
+    <MetadataFile FileName="ThaotacCSDL.xsd" MetadataType="Schema" ID="7c11356a-4fe3-4842-bd31-a885a9a7be10" SourceId="1" SourceUrl="http://localhost:57839/ThaotacCSDL.svc?xsd=xsd1" />
+    <MetadataFile FileName="ThaotacCSDL.wsdl" MetadataType="Wsdl" ID="de940ea3-4ffd-4e62-ada5-6857749a6fdf" SourceId="1" SourceUrl="http://localhost:57839/ThaotacCSDL.svc?wsdl" />
+    <MetadataFile FileName="ThaotacCSDL1.xsd" MetadataType="Schema" ID="cab15adc-f149-46ff-8326-195902a595fc" SourceId="1" SourceUrl="http://localhost:57839/ThaotacCSDL.svc?xsd=xsd0" />
+    <MetadataFile FileName="ThaotacCSDL2.xsd" MetadataType="Schema" ID="62250c7f-8442-4b77-bd1c-b77c482cf3bb" SourceId="1" SourceUrl="http://localhost:57839/ThaotacCSDL.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\BUS.dll
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\BUS.pdb
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\DAL.dll
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\DTO.dll
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\DAL.pdb
+C:\Users\PC\source\repos\Quanlysp\BUS\bin\Debug\DTO.pdb
+C:\Users\PC\source\repos\Quanlysp\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Quanlysp\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Quanlysp\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\PC\source\repos\Quanlysp\BUS\obj\Debug\BUS.dll
+C:\Users\PC\source\repos\Quanlysp\BUS\obj\Debug\BUS.pdb

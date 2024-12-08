@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Quanlysp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\dal\\thanhpham_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|solutionrelative:dal\\thanhpham_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\dal\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|solutionrelative:dal\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6E6371-E850-4B41-873F-A949DEA3AFF8}|DTO\\DTO.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\dto\\thanhpham .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6E6371-E850-4B41-873F-A949DEA3AFF8}|DTO\\DTO.csproj|solutionrelative:dto\\thanhpham .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637EAE73-7CAB-492E-B289-CEF694741749}|BUS\\BUS.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\bus\\thanhpham_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637EAE73-7CAB-492E-B289-CEF694741749}|BUS\\BUS.csproj|solutionrelative:bus\\thanhpham_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14863936-9728-41FF-9712-85DD52BF69B5}|Quanlysp\\Quanlysp.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\quanlysp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14863936-9728-41FF-9712-85DD52BF69B5}|Quanlysp\\Quanlysp.csproj|solutionrelative:quanlysp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14863936-9728-41FF-9712-85DD52BF69B5}|Quanlysp\\Quanlysp.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\quanlysp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14863936-9728-41FF-9712-85DD52BF69B5}|Quanlysp\\Quanlysp.csproj|solutionrelative:quanlysp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6E6371-E850-4B41-873F-A949DEA3AFF8}|DTO\\DTO.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6E6371-E850-4B41-873F-A949DEA3AFF8}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637EAE73-7CAB-492E-B289-CEF694741749}|BUS\\BUS.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637EAE73-7CAB-492E-B289-CEF694741749}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|c:\\users\\pc\\source\\repos\\quanlysp\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD396500-EAFB-41FD-B374-BA3042FE457A}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\Quanlysp\\Form1.cs",
+              "RelativeDocumentMoniker": "Quanlysp\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\Quanlysp\\Form1.cs",
+              "RelativeToolTip": "Quanlysp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:15:36.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "THANHPHAM_Bus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\BUS\\THANHPHAM_Bus.cs",
+              "RelativeDocumentMoniker": "BUS\\THANHPHAM_Bus.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\BUS\\THANHPHAM_Bus.cs",
+              "RelativeToolTip": "BUS\\THANHPHAM_Bus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:10:20.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\Connect.cs",
+              "RelativeDocumentMoniker": "DAL\\Connect.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\Connect.cs",
+              "RelativeToolTip": "DAL\\Connect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:08:44.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "THANHPHAM_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\THANHPHAM_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\THANHPHAM_DAL.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\THANHPHAM_DAL.cs",
+              "RelativeToolTip": "DAL\\THANHPHAM_DAL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:04:02.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "THANHPHAM .cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DTO\\THANHPHAM .cs",
+              "RelativeDocumentMoniker": "DTO\\THANHPHAM .cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DTO\\THANHPHAM .cs",
+              "RelativeToolTip": "DTO\\THANHPHAM .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:58:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "BUS\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\BUS\\Class1.cs",
+              "RelativeToolTip": "BUS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:51:59.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:51:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:51:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Quanlysp\\Quanlysp\\Form1.cs",
+              "RelativeDocumentMoniker": "Quanlysp\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Quanlysp\\Quanlysp\\Form1.cs [Design]",
+              "RelativeToolTip": "Quanlysp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:49:01.612Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

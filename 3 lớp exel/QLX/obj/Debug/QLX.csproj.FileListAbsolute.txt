@@ -1,0 +1,38 @@
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\QLX.exe.config
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\QLX.exe
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\QLX.pdb
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\BUS.dll
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\EPPlus.dll
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\BUS.pdb
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\QLX\QLX\bin\Debug\EPPlus.xml
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.Form1.resources
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.csproj.Up2Date
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.exe
+C:\Users\Admin\source\repos\QLX\QLX\obj\Debug\QLX.pdb
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\QLX.exe.config
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\QLX.exe
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\QLX.pdb
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\BUS.dll
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\DAL.dll
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\EPPlus.dll
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\BUS.pdb
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\DAL.pdb
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\batap\QLX\bin\Debug\EPPlus.xml
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.Form1.resources
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.Properties.Resources.resources
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.csproj.GenerateResource.cache
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.csproj.Up2Date
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.exe
+F:\Môn windownfrom\repos\batap\QLX\obj\Debug\QLX.pdb

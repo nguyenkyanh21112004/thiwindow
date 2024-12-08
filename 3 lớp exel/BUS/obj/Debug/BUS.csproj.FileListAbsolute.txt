@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\QLX\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\source\repos\QLX\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLX\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLX\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\source\repos\QLX\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\source\repos\QLX\BUS\obj\Debug\BUS.pdb
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\BUS.dll
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\BUS.pdb
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\DAL.dll
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\DAL.pdb
+F:\Môn windownfrom\repos\batap\BUS\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\batap\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\batap\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\batap\BUS\obj\Debug\BUS.csproj.Up2Date
+F:\Môn windownfrom\repos\batap\BUS\obj\Debug\BUS.dll
+F:\Môn windownfrom\repos\batap\BUS\obj\Debug\BUS.pdb

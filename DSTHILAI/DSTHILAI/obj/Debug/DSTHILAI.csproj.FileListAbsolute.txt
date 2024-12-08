@@ -1,0 +1,34 @@
+D:\Windows Form\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.exe.config
+D:\Windows Form\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.exe
+D:\Windows Form\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.pdb
+D:\Windows Form\DSTHILAI\DSTHILAI\bin\Debug\EPPlus.dll
+D:\Windows Form\DSTHILAI\DSTHILAI\bin\Debug\EPPlus.xml
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.AssemblyReference.cache
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Form1.resources
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Properties.Resources.resources
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.GenerateResource.cache
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.CoreCompileInputs.cache
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.Up2Date
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.exe
+D:\Windows Form\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.pdb
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.exe.config
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.exe
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\bin\Debug\DSTHILAI.pdb
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\bin\Debug\EPPlus.dll
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\bin\Debug\EPPlus.xml
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Form1.resources
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Properties.Resources.resources
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.Up2Date
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.exe
+C:\Users\Asus\source\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.pdb
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Form1.resources
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.Properties.Resources.resources
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.GenerateResource.cache
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.exe
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.pdb
+F:\Môn windownfrom\repos\DSTHILAI\DSTHILAI\obj\Debug\DSTHILAI.DataAccess.resources

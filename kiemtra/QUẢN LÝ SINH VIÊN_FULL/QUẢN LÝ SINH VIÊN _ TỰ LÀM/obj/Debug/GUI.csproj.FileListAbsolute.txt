@@ -1,0 +1,268 @@
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe.config
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Form1.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormLop.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormSinhvien.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Properties.Resources.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormMon.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN _ TỰ LÀM\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormDiem.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe.config
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Form1.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormDiem.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormLop.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormMon.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormSinhvien.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Properties.Resources.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.Up2Date
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE80.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\stdole.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormDiemthi.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormThilai.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormTonghop.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DanhsachSV.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EPPlus.dll
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EPPlus.xml
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DSThilaiExcel.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.ThuchanhWS.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.ServiceCSDL.resources
+D:\Windows Form\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DSSVDSTL.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\x86\SqlServerSpatial160.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\x64\SqlServerSpatial160.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe.config
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EPPlus.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE80.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\stdole.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\Microsoft.MSXML.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\BUS.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DAL.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\DTO.pdb
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EPPlus.xml
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE.xml
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\EnvDTE80.xml
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DanhsachSV.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DSSVDSTL.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.DSThilaiExcel.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Form1.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormDiem.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormDiemthi.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormLop.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormMon.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormSinhvien.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormThilai.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.FormTonghop.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.Properties.Resources.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.ServiceCSDL.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM.ThuchanhWS.resources
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\GUI.csproj.Up2Date
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.exe
+F:\Môn windownfrom\repos\QUẢN LÝ SINH VIÊN_FULL\QUẢN LÝ SINH VIÊN _ TỰ LÀM\obj\Debug\QUẢN LÝ SINH VIÊN _ TỰ LÀM.pdb

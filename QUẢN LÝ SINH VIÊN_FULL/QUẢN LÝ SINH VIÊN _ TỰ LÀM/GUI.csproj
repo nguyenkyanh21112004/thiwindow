@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props" Condition="Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82FC3CEA-13A7-4C71-ABF2-A1EB4DC1D07F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QUẢN_LÝ_SINH_VIÊN___TỰ_LÀM</RootNamespace>
+    <AssemblyName>QUẢN LÝ SINH VIÊN _ TỰ LÀM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus, Version=4.5.2.1, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.2.1\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2015.12.0.2.2403\lib\net40\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.2015.12.0.2.2403\lib\net40\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.160.1000.6\lib\net462\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceReference2\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="DanhsachSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhsachSV.Designer.cs">
+      <DependentUpon>DanhsachSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diemthi.cs">
+      <DependentUpon>Diemthi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Diemthi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Diemthi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSSVDSTL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSSVDSTL.Designer.cs">
+      <DependentUpon>DSSVDSTL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSThilai.cs">
+      <DependentUpon>DSThilai.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSThilai.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSThilai.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSThilaiExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DSThilaiExcel.Designer.cs">
+      <DependentUpon>DSThilaiExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DSTonghop.cs">
+      <DependentUpon>DSTonghop.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSTonghop.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSTonghop.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDiem.Designer.cs">
+      <DependentUpon>FormDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDiemthi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDiemthi.Designer.cs">
+      <DependentUpon>FormDiemthi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLop.Designer.cs">
+      <DependentUpon>FormLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMon.Designer.cs">
+      <DependentUpon>FormMon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSinhvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSinhvien.Designer.cs">
+      <DependentUpon>FormSinhvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThilai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThilai.Designer.cs">
+      <DependentUpon>FormThilai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTonghop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTonghop.Designer.cs">
+      <DependentUpon>FormTonghop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceCSDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServiceCSDL.Designer.cs">
+      <DependentUpon>ServiceCSDL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThuchanhWS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThuchanhWS.Designer.cs">
+      <DependentUpon>ThuchanhWS.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DanhsachSV.resx">
+      <DependentUpon>DanhsachSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Danhsachthilai.rdlc" />
+    <EmbeddedResource Include="DiemthiSV.rdlc" />
+    <EmbeddedResource Include="DSSVDSTL.resx">
+      <DependentUpon>DSSVDSTL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DSThilaiExcel.resx">
+      <DependentUpon>DSThilaiExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDiem.resx">
+      <DependentUpon>FormDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDiemthi.resx">
+      <DependentUpon>FormDiemthi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLop.resx">
+      <DependentUpon>FormLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMon.resx">
+      <DependentUpon>FormMon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSinhvien.resx">
+      <DependentUpon>FormSinhvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThilai.resx">
+      <DependentUpon>FormThilai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTonghop.resx">
+      <DependentUpon>FormTonghop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ServiceCSDL.resx">
+      <DependentUpon>ServiceCSDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThuchanhWS.resx">
+      <DependentUpon>ThuchanhWS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tonghop.rdlc" />
+    <None Include="Connected Services\ServiceReference1\MyService.wsdl" />
+    <None Include="Connected Services\ServiceReference1\MyService.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\MyService1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\MyService2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference2\ThaotacCSDL.wsdl" />
+    <None Include="Connected Services\ServiceReference2\ThaotacCSDL.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference2\ThaotacCSDL1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference2\ThaotacCSDL2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Diemthi.xsc">
+      <DependentUpon>Diemthi.xsd</DependentUpon>
+    </None>
+    <None Include="Diemthi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Diemthi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Diemthi.xss">
+      <DependentUpon>Diemthi.xsd</DependentUpon>
+    </None>
+    <None Include="DSThilai.xsc">
+      <DependentUpon>DSThilai.xsd</DependentUpon>
+    </None>
+    <None Include="DSThilai.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSThilai.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSThilai.xss">
+      <DependentUpon>DSThilai.xsd</DependentUpon>
+    </None>
+    <None Include="DSTonghop.xsc">
+      <DependentUpon>DSTonghop.xsd</DependentUpon>
+    </None>
+    <None Include="DSTonghop.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSTonghop.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSTonghop.xss">
+      <DependentUpon>DSTonghop.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DTO.Lop.datasource" />
+    <None Include="Properties\DataSources\System.Data.DataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{a0878267-ea58-41ba-8658-486b45dab1b2}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{656c4148-8361-4d72-bdbd-cc6671845a1f}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{f35516be-bd4b-4505-b34a-bc6141713606}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceReference1\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceReference2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\MyService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\ThaotacCSDL.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceReference2\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.SqlServer.Types.160.1000.6\build\net462\Microsoft.SqlServer.Types.props'))" />
+  </Target>
+</Project>
